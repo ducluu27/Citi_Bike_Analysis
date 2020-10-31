@@ -3,29 +3,29 @@
 The purpose of this project is to utlization the visualization tool Tableau to display a story to propose a solid business proposal.
 ## Results
 
-![viz1]()
+![viz1](https://github.com/ducluu27/Citi_Bike_Analysis/blob/main/Images/Checkout%20Times%20by%20Gender.png)
 
  - This first visualization displays the length of time that bikes are checked out for each gender. Based of the results of the visualization, males had the most number of bikes checked out. Also, the tripduration with the most bikes checked out for all gender is 5 hours.
  
- ![viz1]()
+ ![viz1](https://github.com/ducluu27/Citi_Bike_Analysis/blob/main/Images/Trip%20by%20Weekday%20for%20Each%20Hour%20Heatmap.png)
  
  - The second visualization displays the number of bike trips by weekday for each hour of the day as a heatmap. The results show that Thursday from 5-6pm have the most  trips out of all the weekday. Also, from 5-6pm from Monday to Friday have the most trips.
  
- ![viz1]()
+ ![viz1](https://github.com/ducluu27/Citi_Bike_Analysis/blob/main/Images/Checkout%20Times%20by%20Gender.png)
  
   - The third visualization shows the number of bike trips by gender for each day of the week as a heatmap. The results show that the usertype of customer and gender of unknown had the most trips on saturday. For the subscribers the males haad the most out of the 3 genders. With Thursday having the most trips at 259,316. 
   
- ![viz1]()
+ ![viz1](https://github.com/ducluu27/Citi_Bike_Analysis/blob/main/Images/Customer%20by%20Gender.png)
    - The fourth visualization shows the breakdown of genders of the bikers. Males are the largest gender for the bikers.
    
-  ![viz1]()
+  ![viz1](https://github.com/ducluu27/Citi_Bike_Analysis/blob/main/Images/Customer%20Type.png)
    - The fifth visualization shows the breakdown of the customers of the bikers. Subscribers make up the largest customer which is at 1,900,359.
    
-  ![viz1]()
+  ![viz1](https://github.com/ducluu27/Citi_Bike_Analysis/blob/main/Images/Bike%20Repairs.png)
     
   - The sixth visualization shows the bike repairs per bike id. Bikeid 38124 has had the most repairs at 479 repairs.
     
- ![viz1]()
+ ![viz1](https://github.com/ducluu27/Citi_Bike_Analysis/blob/main/Images/Aug%20Peak%20Hours.png)
      
 - The last visualization shows the peak hours of bikers for the month of August. The hour with the most number of bikers is at 5 pm.
 
