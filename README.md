@@ -15,5 +15,17 @@ The purpose of this project is to utlization the visualization tool Tableau to d
  
   - The third visualization shows the number of bike trips by gender for each day of the week as a heatmap. The results show that the usertype of customer and gender of unknown had the most trips on saturday. For the subscribers the males haad the most out of the 3 genders. With Thursday having the most trips at 259,316. 
   
+ ![viz1]()
+   - The fourth visualization shows the breakdown of gender 
+   
   ![viz1]()
-   - 
+   - The fifth visualization shows the 
+   
+  ![viz1]()
+    
+  - The sixth visualization shows the bike repairs per bike id
+    
+ ![viz1]()
+     
+- The last visualization shows the peak hours of bikers for the month of August. 
+     
