@@ -1,7 +1,7 @@
 # Citi_Bike_Analysis
 ## Overview of Project
 The purpose of this project is to utlization the visualization tool Tableau to display a story to propose a solid business proposal.
-Link to Tableau dashboard: (https://public.tableau.com/profile/duc8516#!/vizhome/Module14Challenge_16039518053740/DesMoinesBikeTripAnalysis)
+Link to Tableau dashboard: [Duc's Dashboard](https://public.tableau.com/profile/duc8516#!/vizhome/Module14Challenge_16039518053740/DesMoinesBikeTripAnalysis)
 ## Results
 
 ![viz1](https://github.com/ducluu27/Citi_Bike_Analysis/blob/main/Images/Checkout%20Times%20by%20Gender.png)
